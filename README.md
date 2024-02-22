@@ -25,11 +25,6 @@ This project is aimed at developing a drowsiness detection system using computer
 - The CNN model used for eye state classification can be retrained or fine-tuned for better performance.
 - Use the `model.py` script to train the model with your own dataset or modify the existing model architecture.
 
-## Contributors
-- Your Name
-- Contributor 1
-- Contributor 2
-
 
 ## Acknowledgements
 - This project utilizes pre-trained Haar cascade classifiers for face and eye detection.
